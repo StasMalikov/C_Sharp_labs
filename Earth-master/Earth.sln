@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earth", "Earth\Earth.csproj", "{B521E146-49E5-4107-9D16-237B7CC57780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elements", "Elements\Elements.csproj", "{BF53D79D-20A9-4F51-845B-04B0F64F1AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B521E146-49E5-4107-9D16-237B7CC57780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B521E146-49E5-4107-9D16-237B7CC57780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B521E146-49E5-4107-9D16-237B7CC57780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B521E146-49E5-4107-9D16-237B7CC57780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF53D79D-20A9-4F51-845B-04B0F64F1AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF53D79D-20A9-4F51-845B-04B0F64F1AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF53D79D-20A9-4F51-845B-04B0F64F1AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF53D79D-20A9-4F51-845B-04B0F64F1AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A19E07-B334-408A-AA47-3B3F07A52985}
+	EndGlobalSection
+EndGlobal
